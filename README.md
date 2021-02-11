@@ -4,3 +4,13 @@
 </p>
 
 This React template comes with multi-lingual support, smooth animations, set of ready to use sections and most importantly, all of the content is stored in the JSON files, so that you can manage the texts without having any prior knowledge in React.js.
+
+
+### npx
+
+Use the following command 
+
+```sh
+npx create-react-app my-app --template adrinlol
+cd my-app
+npm start
