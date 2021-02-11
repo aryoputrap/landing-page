@@ -1,4 +1,4 @@
 # landing-page
 <p float="left">
-  <img src="https://github.com/aryoputrap/landing-page/blob/master/public/img/svg/Video%20svg.gif" width="200" height="350" alt="Laman"/>
+  <img src="https://github.com/aryoputrap/landing-page/blob/main/public/img/svg/svg.gif" width="200" height="350" alt="Laman"/>
 </p>
